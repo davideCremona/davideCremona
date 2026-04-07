@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Davide 👋
+
+I'm a Data Scientist / AI-ML Engineer currently working in consulting with a background in computer vision and robotics systems.
+
+## Technical interests
+- Computer vision (object detection, semantic segmentation, 6D Pose Estimation, Tracking)
+- ROS and robotics integration
+- ML tooling and experiment tracking
+
+## Background
+Previously worked on YOLO/SSD implementations and ZED camera integration for robotic systems.
 
 <!--
 **davideCremona/davideCremona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
